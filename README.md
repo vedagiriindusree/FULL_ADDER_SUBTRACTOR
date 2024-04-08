@@ -84,6 +84,7 @@ endmodule
 ![image](https://github.com/vedagiriindusree/FULL_ADDER_SUBTRACTOR/assets/149366776/4dd9cb6a-62cc-475b-bc1f-4f4e7039ccc8)
 # Full subtractor
 ![image](https://github.com/vedagiriindusree/FULL_ADDER_SUBTRACTOR/assets/149366776/2ad95057-93e4-4c1a-9199-9f33064c3cf3)
+
 **Result:**
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
 
